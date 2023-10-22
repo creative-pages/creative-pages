@@ -5,7 +5,17 @@
 
 I'm a Full Stack Web Developer, with extensive skills on HTML, CSS, Bootstrap, JavaScript(Basic), jQuery, Vue.js, PHP, Laravel and MySQL. I'm also a WordPress Developer. After working as a Web Designer and Developer for many years now, I've come to believe that my skills are more useful than ever.
 
-Skills: ✅HTML ✅CSS ✅Bootstrap ✅JavaScript ✅jQuery ✅Vue.js ✅PHP ✅Laravel ✅MySQL ✅WordPress
+Skills: 
+✅ HTML 
+✅ CSS 
+✅ Bootstrap 
+✅ JavaScript 
+✅ jQuery 
+✅ Vue.js 
+✅ PHP 
+✅ Laravel 
+✅ MySQL 
+✅ WordPress
 
 - 🔭 I’m currently working on web development. 
 - 🌱 I’m currently learning advanced Vue.js and Laravel. 
